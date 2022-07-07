@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-first",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Rishabh Singh",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^15.3.1"
+  }
+}
